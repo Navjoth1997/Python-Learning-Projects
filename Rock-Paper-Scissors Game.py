@@ -5,7 +5,7 @@
 
 import random
 
-print("This is game designed by Navjoth Singh\n")
+print("This game is designed by Navjoth Singh\n")
 
 Name = input("Enter Your Name: ")
 print(f"\nWelcome to this game {Name}")
