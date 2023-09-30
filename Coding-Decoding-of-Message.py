@@ -12,9 +12,9 @@
 
 # Coding-Decoding-of-Message
 
-# print("This is designed by Navjoth Singh")
-# name = input("Please, Enter your name: ")
-# print(f"hello, {name} ")
+print("This is designed by Navjoth Singh")
+name = input("Please, Enter your name: ")
+print(f"hello, {name} ")
 
 import random
 
